@@ -57,6 +57,8 @@ http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
 https://vs2120.vcdn.biz/1e1e9e72486cd8ae299220094b887357_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157933561/rsid/872a7cf3-5b98-454d-bd4c-d0202a08fd2c/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid1122592601448291971-b4000000.m3u8
 #EXTINF:-1 tvg-id="StopklatkaTV.pl@SD",Stopklatka TV (720p)
 https://liveovh010.cda.pl/enc102/stopklatkatvhdraw/stopklatkatvhdraw.mpd
+#EXTINF:-1 tvg-id="StopklatkaTV.pl@SD",Stopklatka TV (720p) [Geo-blocked]
+https://vs2126.vcdn.biz/30ef9fb9ccf1e56818229ef220875cce_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157764851/rsid/7160d4de-3e08-4a76-8155-b5acffd90ebf/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_8KVPVcxA21voJqTkqLKsrCdLvIDbm1OH/type.live/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperExpressTV.pl@FAST",Super Express TV (1080i)
 https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8
 #EXTINF:-1 tvg-id="SzlagierTV.pl@SD",Szlagier TV (1080p)
@@ -65,7 +67,9 @@ https://vefgpbwcjjjbxfng.naszatv.pl/tracks-v1a1/mono.ts.m3u8
 https://s-pl-01.mediatool.tv/playout/tbn-abr/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Tele5.pl@SD",Tele5 (1080p) [Geo-blocked]
 https://vs2132.vcdn.biz/43fb9423bec9f1138cac28c3536cf988_megogo/live/hls/b/700_2490_4000/u_sid/0/o/159818871/rsid/6db90951-c977-4cbf-a3ec-e561139805c6/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid4914560279927859613-b4000000.m3u8
-#EXTINF:-1 tvg-id="TelewizjaBiznesowa.pl@SD",Telewizja Biznesowa (1080p)
+#EXTINF:-1 tvg-id="TelewizjaBiznesowa.pl",Telewizja Biznesowa (1080p) [Geo-blocked]
+https://vs2131.vcdn.biz/549081d5fe9a20a523e3e6f84f7b9965_megogo/live/hls/b/700_2490/u_sid/0/o/189417841/rsid/496a8a8d-ad95-470a-b9d2-e865cf35e232/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/79.191.22.210*asn/u_srvc/81255/u_did/web_dQx8FbXiB8Cu4VRFz0z0pSm3l5JiRI57/type.live/playlist.m3u8
+#EXTINF:-1 tvg-id="TelewizjaBiznesowa.pl",Telewizja Biznesowa (1080p)
 https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
 #EXTINF:-1 tvg-id="TelewizjaJaslo.pl@SD",Telewizja Jaslo (720p)
 https://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8
@@ -87,6 +91,8 @@ https://91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8
 http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
 #EXTINF:-1 tvg-id="TVOkazje.pl@SD",TV Okazje (1080p) [Geo-blocked]
 https://lb2-e3-20.pluscdn.pl/ch/1523532/366/dash/2cf383bb/live.mpd
+#EXTINF:-1 tvg-id="TVPuls.pl",TV Puls (1080p) [Geo-blocked]
+https://vs2122.vcdn.biz/bb55f78e9ac406b0feaafa298e9efcbf_megogo/live/hls/b/700_2490/u_sid/0/o/157324701/rsid/eb26d833-4331-4d62-98ae-9ecddcef0101/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/79.191.22.210*asn/u_srvc/81255/u_did/web_dQx8FbXiB8Cu4VRFz0z0pSm3l5JiRI57/type.live/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRegionalnaLubin.pl@SD",TV Regionalna Lubin (576p) [Not 24/7]
 https://tvreg.klemit.net/regionalna/stream/index.m3u8
 #EXTINF:-1 tvg-id="TVTorun.pl@SD",TV Toruń (1080p) [Not 24/7]
@@ -105,6 +111,8 @@ https://liveovh009.cda.pl/enc129/tvp1hdraw/tvp1hdraw.m3u8
 https://liveovh009.cda.pl/enc129/tvp1hdraw/tvp1hdraw.mpd
 #EXTINF:-1 tvg-id="TVP1.pl@SD",TVP1 (1080i) [Geo-blocked]
 https://liveovh011.cda.pl/enc115/tvp1hdraw/tvp1hdraw.m3u8
+#EXTINF:-1 tvg-id="TVP2.pl@SD",TVP2 (1080i) [Geo-blocked]
+https://vs2137.vcdn.biz/4759961bad610b3a235f85cd0699a063_megogo/live/hls/b/700_2490/u_sid/0/o/199953021/rsid/f503e5a1-5201-43af-af87-46e6a92e2332/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/79.191.22.210*asn/u_srvc/81255/u_did/web_dQx8FbXiB8Cu4VRFz0z0pSm3l5JiRI57/type.live/playlist.m3u8
 #EXTINF:-1 tvg-id="TVP2.pl@SD",TVP2 (1080i) [Geo-blocked]
 https://cdndai.pl/tvp2hd/index.m3u8
 #EXTINF:-1 tvg-id="TVP2.pl@SD",TVP2 (1080p)
@@ -137,6 +145,8 @@ https://cdndai.pl/tvp3poznansd/index.m3u8
 https://cdndai.pl/tvp3rzeszowsd/index.m3u8
 #EXTINF:-1 tvg-id="TVP3Szczecin.pl@SD",TVP 3 Szczecin (576p) [Geo-blocked]
 https://cdndai.pl/tvp3szczecinsd/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Warszawa.pl",TVP 3 Warszawa (1080p) [Geo-blocked]
+https://vs2143.vcdn.biz/82fed3526bbbf7558c96a501bb586254_megogo/live/hls/b/700_2490/u_sid/0/o/199953841/rsid/013a2671-6720-46bf-aff2-24c3a8af7f23/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/79.191.22.210*asn/u_srvc/81255/u_did/web_dQx8FbXiB8Cu4VRFz0z0pSm3l5JiRI57/type.live/playlist.m3u8
 #EXTINF:-1 tvg-id="TVP3Warszawa.pl@SD",TVP 3 Warszawa (576p) [Geo-blocked]
 https://cdndai.pl/tvp3warszawasd/index.m3u8
 #EXTINF:-1 tvg-id="TVP3Wroclaw.pl@SD",TVP 3 Wrocław (576p) [Geo-blocked]
@@ -171,5 +181,6 @@ https://liveovh010.cda.pl/enc109/wphdraw/wphdraw.m3u8
 https://vs2124.vcdn.biz/ea4b303612d09486a02d3fb60f337b0c_megogo/live/hls/b/700_2490_4000/u_sid/0/o/160416841/rsid/a4076920-50ed-4d3f-b9ef-e46f74e36d4b/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid2813014404360271229-b4000000.m3u8
 #EXTINF:-1 tvg-id="ZoomTV.pl@SD",Zoom TV (1080p) [Geo-blocked]
 https://vs2129.vcdn.biz/0225e988e03a772f749888284217365b_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157764221/rsid/9270f2c9-1d80-455d-b5c3-d926d12f5af3/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid5554132721056427433-b4000000.m3u8
+
 
 
