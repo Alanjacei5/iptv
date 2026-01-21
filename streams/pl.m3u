@@ -7,8 +7,12 @@ https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-id="4FunTV.pl@SD",4 Fun TV (288p) [Not 24/7]
 https://stream.4fun.tv:8888/hls/4f.m3u8
+#EXTINF:-1 tvg-id="AMCEurope.uk@PL",AMC (1080p)
+https://liveovh010.cda.pl/enc119/amchdraw/amchdraw.mpd
 #EXTINF:-1 tvg-id="AntenaHD.pl@SD",Antena HD (1080p)
 https://liveovh009.cda.pl/enc114/antenatvhdraw/antenatvhdraw.m3u8
+#EXTINF:-1 tvg-id="BBCFirst.uk@PL",BBC First (1080p)
+https://liveovh010.cda.pl/enc113/bbcfirsthdraw/bbcfirsthdraw.mpd
 #EXTINF:-1 tvg-id="BTBHD.pl@SD",BTB HD (1080p)
 https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8
 #EXTINF:-1 tvg-id="BTBMusic.pl@HD",BTB Music (1080p)
@@ -25,10 +29,16 @@ https://6034e09794f07.streamlock.net/tv/dlaCiebieTv/playlist.m3u8
 https://echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8
 #EXTINF:-1 tvg-id="EWTNPoland.pl@SD",EWTN Poland (1080p)
 https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KinoPolska.pl",Kino Polska (1080p)
+https://liveovh010.cda.pl/enc105/kinopolskahdraw/kinopolskahdraw.mpd
+#EXTINF:-1 tvg-id="KinoTV.pl",Kino TV (1080p)
+https://liveovh010.cda.pl/enc110/kinotvhdraw/kinotvhdraw.mpd
 #EXTINF:-1 tvg-id="Motowizja.pl@SD",Motowizja (1080p)
 https://liveovh009.cda.pl/enc116/motowizjahdraw/motowizjahdraw.m3u8
 #EXTINF:-1 tvg-id="MusicBoxPolska.pl@SD",Music Box Polska (1080p) [Geo-blocked]
 https://vs2131.vcdn.biz/7c9ec24eb8edee7c3d3b96d9f3135f48_megogo/live/hls/b/700_2490_4000/u_sid/0/o/156751011/rsid/75909724-61e8-406f-9c58-f0491247f2a6/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid750262562196381400-b4000000.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.pl",Paramount Network (1080p)
+https://liveovh010.cda.pl/enc028/paramountnetworkhdraw/paramountnetworkhdraw.mpd
 #EXTINF:-1 tvg-id="Polsat.pl@SD",Polsat (1080p) [Geo-blocked]
 https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 #EXTINF:-1 tvg-id="PolsatNews.pl@SD",Polsat News (720p) [Geo-blocked]
@@ -91,6 +101,8 @@ https://91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8
 http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
 #EXTINF:-1 tvg-id="TVOkazje.pl@SD",TV Okazje (1080p) [Geo-blocked]
 https://lb2-e3-20.pluscdn.pl/ch/1523532/366/dash/2cf383bb/live.mpd
+#EXTINF:-1 tvg-id="TVPuls.pl",TV Puls (1080p)
+https://liveovh009.cda.pl/enc103/tvpulsraw/tvpulsraw.mpd
 #EXTINF:-1 tvg-id="TVPuls.pl",TV Puls (1080p) [Geo-blocked]
 https://vs2122.vcdn.biz/bb55f78e9ac406b0feaafa298e9efcbf_megogo/live/hls/b/700_2490/u_sid/0/o/157324701/rsid/eb26d833-4331-4d62-98ae-9ecddcef0101/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/79.191.22.210*asn/u_srvc/81255/u_did/web_dQx8FbXiB8Cu4VRFz0z0pSm3l5JiRI57/type.live/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRegionalnaLubin.pl@SD",TV Regionalna Lubin (576p) [Not 24/7]
@@ -181,6 +193,7 @@ https://liveovh010.cda.pl/enc109/wphdraw/wphdraw.m3u8
 https://vs2124.vcdn.biz/ea4b303612d09486a02d3fb60f337b0c_megogo/live/hls/b/700_2490_4000/u_sid/0/o/160416841/rsid/a4076920-50ed-4d3f-b9ef-e46f74e36d4b/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid2813014404360271229-b4000000.m3u8
 #EXTINF:-1 tvg-id="ZoomTV.pl@SD",Zoom TV (1080p) [Geo-blocked]
 https://vs2129.vcdn.biz/0225e988e03a772f749888284217365b_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157764221/rsid/9270f2c9-1d80-455d-b5c3-d926d12f5af3/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid5554132721056427433-b4000000.m3u8
+
 
 
 
