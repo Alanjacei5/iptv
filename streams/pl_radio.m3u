@@ -1,2 +1,21 @@
 #EXTM3U
-#EXTINF:-1
+#EXTINF:-1 tvg-id="AkademickieRadioLuz.pl",Akademickie Radio Luz
+http://stream.radioluz.pl:8000/luz_hifi.mp3
+#EXTINF:-1 tvg-id="AntyRadio.pl",Antyradio
+https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5
+#EXTINF:-1 tvg-id="AntyRadioClassicRock.pl",Antyradio Classic Rock
+https://an01.cdn.eurozet.pl/ANTCLA.mp3?redirected=01
+#EXTINF:-1 tvg-id="AntyRadioCovers.pl",Antyradio Covers
+http://an.cdn.eurozet.pl/ANTCOV.mp3
+#EXTINF:-1 tvg-id="AntyRadioGreatest.pl",Antyradio Greatest
+https://an02.cdn.eurozet.pl/ANTGRE.mp3
+#EXTINF:-1 tvg-id="AntyRadioHard.pl",Antyradio Hard
+https://an05.cdn.eurozet.pl/ANTHAR.mp3
+#EXTINF:-1 tvg-id="AntyRadioKatowice.pl",Antyradio Katowice
+http://an01.cdn.eurozet.pl/ant-kat.mp3
+#EXTINF:-1 tvg-id='AntyRadioMadeinPoland.pl",Antyradio Made In Poland
+https://an04.cdn.eurozet.pl/ANTPOL.mp3?t=1668748669557?redirected=04
+#EXTINF:-1 tvg-id="AntyRadioUnplugged.pl",Antyradio Unplugged
+https://an05.cdn.eurozet.pl/ANTUNP.mp3
+#EXTINF:-1 tvg-id="AwangardaFM.pl",Awangarda FM [Geo-blocked]
+https://stream.zeno.fm/mf9ewmbuaq8uv
