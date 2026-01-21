@@ -1,6 +1,6 @@
 # IPTV [![update](https://github.com/iptv-org/iptv/actions/workflows/update.yml/badge.svg)](https://github.com/iptv-org/iptv/actions/workflows/update.yml)
 
-Collection of publicly available IPTV (Internet Protocol television) channels from all over the world.
+Collection of publicly available IPTV, Radio and LiveCam (Internet Protocol television) channels from all over the world.
 
 ## Table of contents
 
@@ -77,3 +77,4 @@ No video files are stored in this repository. The repository simply contains use
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](LICENSE)
+
