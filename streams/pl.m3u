@@ -229,6 +229,8 @@ https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-dash/tvpolonia.mpd
 #EXTINF:-1 tvg-id="TVPPolonia.pl@SD",TVP Polonia
 https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-HLS8/tvpolonia.m3u8
+#EXTINF:-1 tvg-id="TVPRozrywka.pl",TVP Rozrywka (576p)
+https://turbotv.io/play/link/9fa40d4c-2056-435b-9cfd-a3f8a6557776/eyJpdiI6IjJ5UExtYmxWUTJyYmI1eExOMG9Camc9PSIsInZhbHVlIjoiVmhSbFBOdzk5aDJUY1l2QlZraTBzU0tKcU1qOUV6bjhOb1IxU2x0SDdWWEU5VFFkMGl0NlRRc2F3U1kxcGU1bE9UakNmREsweXgxck5VQmlWMEpnbWc9PSIsIm1hYyI6IjJhNjVkNTg4MDMxZGZjOWQ3NDkyZTExNjFjMDEzODNkZTI2ZWYxMDYzZmZiN2M1NTE0ZDllYmM3N2Q2YzU5ODQiLCJ0YWciOiIifQ==.m3u8
 #EXTINF:-1 tvg-id="TVPWorld.pl@SD",TVP World (1080p) [Geo-blocked]
 https://vs2142.vcdn.biz/2958f855a43f669a4282e5134a882554_megogo/live/hls/b/700_2490_4000/u_sid/0/o/150446381/rsid/7aae92a2-4034-476f-8fff-33bfc431e127/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid8883796453807134950-b4000000.m3u8
 #EXTINF:-1 tvg-id="TVPWorld.pl@SD",TVP World
@@ -261,6 +263,7 @@ https://vs2124.vcdn.biz/ea4b303612d09486a02d3fb60f337b0c_megogo/live/hls/b/700_2
 https://liveovh010.cda.pl/enc005/zoomtvhdraw/zoomtvhdraw.mpd
 #EXTINF:-1 tvg-id="ZoomTV.pl@SD",Zoom TV (1080p) [Geo-blocked]
 https://vs2129.vcdn.biz/0225e988e03a772f749888284217365b_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157764221/rsid/9270f2c9-1d80-455d-b5c3-d926d12f5af3/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid5554132721056427433-b4000000.m3u8
+
 
 
 
